@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vincytats
-- 👀 I’m interested in php programming
+- 👀 I’m interested in javascript and C#
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on web based applications
 - 📫 How to reach me +27824302791
